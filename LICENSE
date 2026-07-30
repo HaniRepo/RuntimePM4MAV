@@ -1,0 +1,44 @@
+IECON 2026 REVIEW-ONLY LICENSE
+
+Copyright (c) 2026 Hani [Full Surname] and contributors.
+All rights reserved.
+
+This repository and its contents, including source code, scripts, data,
+documentation, figures, configuration files, and experimental results, are
+provided solely for the purposes of reviewing and evaluating the associated
+submission to the 2026 Annual Conference of the IEEE Industrial Electronics
+Society (IECON 2026).
+
+Permission is granted to authorized reviewers and conference organizers to:
+
+1. Access and inspect the repository;
+2. Run the provided software for verification and evaluation;
+3. Make temporary local copies as reasonably necessary for the review process.
+
+No permission is granted to:
+
+1. Copy, redistribute, publish, sublicense, sell, or publicly disclose any
+   part of this repository;
+2. Use the repository or its contents for commercial, research, educational,
+   or other purposes unrelated to the IECON 2026 review process;
+3. Modify, incorporate, or reuse the source code or other materials in another
+   project, publication, dataset, or software product;
+4. Share access to the repository with unauthorized third parties.
+
+Access under this license is temporary and limited to the IECON 2026 review
+and evaluation period.
+
+A public version of this repository may be released after completion of the
+review and publication process. That public release may be distributed under
+a separate open-source or other license selected by the copyright holders.
+This review-only license does not automatically apply to, or grant rights
+under, any future public release.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM THE MATERIALS OR THEIR USE.
+
+Any rights not expressly granted in this license are reserved by the copyright
+holders.
