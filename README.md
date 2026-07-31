@@ -1,4 +1,4 @@
-# Anonymous Drone Experiment Repository
+# Predictive monitoring Drone Experiment Repository
 
 This repository contains the source code and experimental scripts used to reproduce the drone simulation and Crazyflie monitoring experiments.
 
