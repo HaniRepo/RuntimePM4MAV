@@ -56,6 +56,14 @@ To run the four-obstacle simulation:
 python runtime_four_obstacle.py --gui False --plot True --duration_sec 60
 Command Arguments
 ```
+To run the comparison between Direct waypoint baseline, Classical reactive Artificial Potential Field (APF),and  Proposed predictive runtime supervisor:
+```bash
+python -m gym_pybullet_drones.predictiveMonitoringControl.runtime_four_obstacle_apf_comparison
+```
+To run Sensitivity Analysis Experiment:
+```bash#
+python -m gym_pybullet_drones.predictiveMonitoringControl.run_camera_oracle_sensitivity --duration_sec 180 --output_folder results/camera_oracle_sensitivity
+```
 
 ---
 ## 2. Generating Diagnostic Plots
