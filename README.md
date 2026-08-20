@@ -19,6 +19,8 @@ repository-root/
 ├── gym_pybullet_drones/
 │   ├── runtime_three_obstacle.py
 │   ├── runtime_four_obstacle.py
+│   ├── run_camera_oracle_sensitivity.py
+│   ├── runtime_four_obstacle_apf_comparison.py
 │   ├── Plot/
 │   │   └── plot_obstacle_diagnostics_v3.py
 │   └── results/
